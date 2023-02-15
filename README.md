@@ -9,8 +9,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [CareX Pharmacy | University-Project](https://asaadalomari.github.io/CareX/homepage.html)
-- 🔭 I’m currently working on **Multiple Clients Chat | University-Project [Java]**
+- 🔭 I'm completed working on [CareX Pharmacy | University-Project](https://asaadalomari.github.io/CareX/homepage.html)
+- 🔭 I'm completed working on **Multiple Clients Chat | University-Project [Java]**
 - 🌱 I’m currently learning **Advanced JavaScript**
 
 - 👨‍💻 All of my projects are available at [willBeAvailableSoon](willBeAvailableSoon)

@@ -1,7 +1,7 @@
 [![MasterHead](https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Asaad N. Alomari</h1>
-<h3 align="center">A passionate Full-Stack developer from Jordan </h3>
+<h3 align="center">A passionate Software Engineering from Jordan </h3>
 
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzhhM2U3ZjE3M2NiMjYyZmI0NmU4NjY1YWUyNmE2NmIyZTE0MWViMCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif">
 

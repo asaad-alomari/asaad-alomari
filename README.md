@@ -13,7 +13,7 @@
 - 🔭 I have completed working on **Multiple Clients Chat | University-Project [Java]**
 - 🌱 I’m currently learning **Advanced JavaScript**
 
-- 👨‍💻 All of my projects are available at asaad-alomari.tech
+- 👨‍💻 All of my projects are available at asaad-alomari.tech(https://asaad-alomari.tech)
 
 - 💬 Ask me about **Java , C# , Databases , PHP , JavaScript and more**
 

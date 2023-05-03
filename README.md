@@ -13,11 +13,11 @@
 - 🔭 I have completed working on **Multiple Clients Chat | University-Project [Java]**
 - 🌱 I’m currently learning **Advanced JavaScript**
 
-- 👨‍💻 All of my projects are available at asaad-alomari.tech(https://asaad-alomari.tech)
+- 👨‍💻 All of my projects are available at asaad-alomari.tech(http://asaad-alomari.com)
 
 - 💬 Ask me about **Java , C# , Databases , PHP , JavaScript and more**
 
-- 📫 How to reach me **asaadalomari4@gmail.com**
+- 📫 How to reach me **info@asaad-alomari.com**
 
 - ⚡ Fun fact **I think I'm funny while programming :D**
 
